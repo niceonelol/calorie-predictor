@@ -1,1 +1,0 @@
-# CNN model for image input
