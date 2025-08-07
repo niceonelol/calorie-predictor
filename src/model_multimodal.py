@@ -1,1 +1,0 @@
-# Combined model for image + text
