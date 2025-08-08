@@ -1,1 +1,1 @@
-# Code to export model to .tflite
+# This is a file that may be potentially used in the future to export the model to .tflite
